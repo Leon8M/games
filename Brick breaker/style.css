@@ -1,0 +1,44 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+.grid{
+    background-color: white;
+    left: 25%;
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: 1px black solid;
+    margin-top: 80px;
+}
+.block{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 20px;
+   
+}
+.user{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: purple;
+    border-radius: 20px;
+   
+}
+
+.ball{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+}
+#score{
+    color: white;
+    font-size: 20px;
+}
+h2{
+    color: aliceblue;
+}
